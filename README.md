@@ -26,6 +26,6 @@ As a passionate and driven B.Tech student specializing in Electronics and Commun
 ![](https://github-contributor-stats.vercel.app/api?username=84-bosesabyasachi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=84-bosesabyasachi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
