@@ -9,6 +9,8 @@
 - ⚡ Fun fact: *I am Enthusiastic*
   
 **About Me**
+
+
 As a passionate and driven B.Tech student specializing in Electronics and Communication Engineering at Asansol Engineering College (2022-2026), I am deeply enthusiastic about software development and programming. Proficient in C++, Java, Python, and C, I have a solid foundation in Data Structures and Algorithms and Object-Oriented Programming System. I have also knowledge in MERN STACK . I also have basic idea in Machine Learning(ML). My strong communication skills in English complement my technical expertise, enabling effective collaboration and problem-solving. I am eager to apply my knowledge and skills to innovative projects and contribute to the tech industry.
 
 
